@@ -39,7 +39,7 @@ body {
     list-style-type: none;
 }
 
-
+/* diplay: propiedad de posicionamiento*/
 .header div ul li {
     display: inline-block;
     margin-left: 25px;
@@ -54,6 +54,7 @@ p {
     font-size: 16px;
 }
 
+/* etiqueta div con class="hero" tiene como fondo una imagen*/
 .hero {
     height: 800px;
     width: 100%;
